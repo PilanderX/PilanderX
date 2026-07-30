@@ -44,7 +44,6 @@ By day, a compiler of code. By night, a compiler of *pain* — assembling my 47t
 I have a "watch later" list longer than the Silmarillion and the emotional resilience of a wet paper filter. I will watch 24 episodes about competitive bread-making and I *will* cry at episode 19.
 
 ### 🔥 Recently Consumed by the Algorithm
-<sub>(live from MyAnimeList — updates itself, no witchcraft required)</sub>
 
 <div align="center">
 
