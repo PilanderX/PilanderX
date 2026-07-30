@@ -96,8 +96,6 @@ Whatever gets the job done — then argued about at length like it's a disputed 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=PilanderX&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Streak](https://streak-stats.demolab.com?user=PilanderX&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=PilanderX&layout=compact&theme=radical&hide_border=true)
