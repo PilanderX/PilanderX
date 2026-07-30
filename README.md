@@ -92,18 +92,6 @@ Whatever gets the job done — then argued about at length like it's a disputed 
 
 ---
 
-## 📊 COGITATOR READOUTS
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=PilanderX&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=PilanderX&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *The Machine Spirit is pleased. Probably. It will not say.*
